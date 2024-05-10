@@ -1,0 +1,14 @@
+/Users/cmetin/Projects/calculatorFac/calculatorFac/bin/Debug/net7.0/calculatorFac
+/Users/cmetin/Projects/calculatorFac/calculatorFac/bin/Debug/net7.0/calculatorFac.deps.json
+/Users/cmetin/Projects/calculatorFac/calculatorFac/bin/Debug/net7.0/calculatorFac.runtimeconfig.json
+/Users/cmetin/Projects/calculatorFac/calculatorFac/bin/Debug/net7.0/calculatorFac.dll
+/Users/cmetin/Projects/calculatorFac/calculatorFac/bin/Debug/net7.0/calculatorFac.pdb
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/calculatorFac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/calculatorFac.AssemblyInfoInputs.cache
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/calculatorFac.AssemblyInfo.cs
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/calculatorFac.csproj.CoreCompileInputs.cache
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/calculatorFac.dll
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/refint/calculatorFac.dll
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/calculatorFac.pdb
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/calculatorFac.genruntimeconfig.cache
+/Users/cmetin/Projects/calculatorFac/calculatorFac/obj/Debug/net7.0/ref/calculatorFac.dll
